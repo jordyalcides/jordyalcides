@@ -1,4 +1,4 @@
-# Hello devs, name is Jordy and develop for the web!
+# Hello devs, name is Jordy and I develop for the web!
 I’m working as web dev since 2019, but I started as volunteer on social projects and since that I love to help people whenever I can, so fell free to ask me anything!
   
 ### Profile
